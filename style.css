@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(64, 82, 141);
+    color: white;
+}
+
+.navbar {
+    font-family: "Open Sans", sans-serif;
+    margin-top: 15px;
+    font-weight: lighter;
+    font-size: 15px;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header {
+    display: inline;
+    margin-left: 280px;
+    margin-right: 430px;
+}
+
+.options {
+    color: white;
+    display: inline;
+    margin-left: 20px;
+    font-weight: 300;
+    border: none;
+    border-radius: 60px;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: transparent;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.4s;
+}
+
+.options:hover {
+    color: rgb(119, 197, 222)
+}
+
+.GetStarted {
+    border-radius: 60px;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color:rgb(64, 82, 141);
+    margin-left: 30px;
+    border: 2px solid rgb(119, 197, 222);
+    transition-duration: 0.4s;
+}
+
+.GetStarted:hover {
+    background-color: rgb(119, 197, 222);
+    color: white;
+}
+
+.image {
+    margin-left: 900px;
+    margin-top: -400px;
+}
+
+.header2 {
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+     margin-top: 200px;
+     margin-left: 200px;
+}
+
+.text {
+    color: lightgray;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+.btn1 {
+    border-radius: 60px;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: lightskyblue;
+    margin-left: 200px;
+    transition-duration: 0.4s;
+}
+
+  .btn1:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+
+.btn2 {
+    border: none;
+    border-radius: 60px;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: transparent;
+    margin-left: 40px;
+    transition-duration: 0.4s;
+}
+  
+.btn2:hover {
+    color: rgb(119, 197, 222)
+}
+
+.icons {
+    text-align: center;
+    margin-left: -60px;
+    width: 110%;
+    margin-top: 80px;
+    max-width: 1930px;
+}
